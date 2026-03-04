@@ -3,14 +3,15 @@ phrase:
   push:
     sources:
       - file: ./locales/en.yml
-        project_id: 42388391e69ab59163e5382a23be3875
+        project_id: 87f380565e156f714052a7faf336aaa7
         params:
-          locale_id: en
+          locale_id: en-US
           mark_reviewed: true
+          update_translations: true
   pull:
     targets:
       - file: ./locales/<locale_name>.yml
-        project_id: 42388391e69ab59163e5382a23be3875
+        project_id: 87f380565e156f714052a7faf336aaa7
         params:
           use_last_reviewed_version: true
           include_empty_translations: true
