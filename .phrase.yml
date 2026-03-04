@@ -2,10 +2,9 @@ phrase:
   file_format: yml
   push:
     sources:
-      - file: ./locales/en-US.yml
+      - file: ./locales/<locale_name>.yml
         project_id: 87f380565e156f714052a7faf336aaa7
         params:
-          locale_id: en-US
           mark_reviewed: true
           update_translations: true
   pull:
