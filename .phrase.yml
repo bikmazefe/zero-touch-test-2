@@ -12,7 +12,6 @@ phrase:
       - file: ./locales/<locale_name>.yml
         project_id: 87f380565e156f714052a7faf336aaa7
         params:
-          use_last_reviewed_version: true
           include_empty_translations: true
           exclude_empty_zero_forms: true
           include_translated_keys: true
