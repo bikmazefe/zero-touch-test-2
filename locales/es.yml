@@ -1,13 +1,13 @@
 ---
 es:
   general:
-    back:
+    back: Atrás
     cancel:
     confirm:
     destroy:
     edit:
     new:
-  hello:
+  hello: Hola mundo, este es un archivo de prueba para PhraseApp.
   layouts:
     application:
       about:
