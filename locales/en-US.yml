@@ -1,13 +1,13 @@
 ---
 en-US:
   general:
-    back: Back and changed
+    back: Back
     cancel: Cancel
     confirm: Are you sure?
     destroy: Delete
     edit: Edit
     new: New
-  hello: Hello world
+  hello: Hello world, this is a test file for PhraseApp.
   layouts:
     application:
       about: About
