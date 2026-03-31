@@ -1,5 +1,9 @@
 ---
 en-US:
+  asset:
+    technicalSheet:
+      units:
+        "°F":
   general:
     back: Back
     cancel: Cancel
@@ -21,3 +25,4 @@ en-US:
       profile: Profile
       sign_in: Login
       sign_up: Register
+  new_key: This is a new key
