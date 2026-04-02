@@ -1,5 +1,9 @@
 ---
 en-US:
+  asset:
+    technicalSheet:
+      units:
+        "°F":
   general:
     back: Back
     cancel: Cancel
@@ -7,6 +11,7 @@ en-US:
     destroy: Delete
     edit: Edit
     new: New
+  headline: This is a headline
   hello: Hello world, this is a test file for PhraseApp.
   layouts:
     application:
@@ -21,3 +26,4 @@ en-US:
       profile: Profile
       sign_in: Login
       sign_up: Register
+  new_key: This is a new key
