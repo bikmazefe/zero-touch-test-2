@@ -11,6 +11,7 @@ es:
     destroy:
     edit:
     new:
+  headline:
   hello: Hola mundo, este es un archivo de prueba para PhraseApp.
   layouts:
     application:
