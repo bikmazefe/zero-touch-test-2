@@ -8,6 +8,7 @@ en-US:
     edit: Edit
     new: New
   hello: Hello world, this is a test file for PhraseApp.
+  bye: Goodbye world, this is a test file for PhraseApp.
   layouts:
     application:
       about: About
