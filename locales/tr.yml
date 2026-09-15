@@ -1,24 +1,24 @@
 ---
-es:
+tr:
   asset:
     technicalSheet:
       units:
         "°F":
   general:
-    back: Atrás
+    back:
     cancel:
     confirm:
     destroy:
     edit:
     new:
   headline:
-  hello: Hola mundo, este es un archivo de prueba para PhraseApp y lo he actualizado.
+  hello:
   layouts:
     application:
       about:
       account:
       app_store:
-      imprint: Imprimir ahora
+      imprint:
       logout:
       my_mails:
       press:
