@@ -10,7 +10,7 @@ en-US:
   hello: Hello world, this is a test file for PhraseApp.
   layouts:
     application:
-      about: About
+      about: About me
       account: Account
       app_store: App Store
       imprint: Imprint now
