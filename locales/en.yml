@@ -79,6 +79,7 @@ en:
   account:
     details:
       out_of_quota_flash: No more machine translation characters left in this cycle.
+        TEst demo 123
     logo: Logo
     logo_help_block: 'Minimum size: 192 x 192px. Recommend size: 384 x 384px.'
     logo_not_present: No logo was uploaded for this account!
