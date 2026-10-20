@@ -1,5 +1,9 @@
 ---
 es:
+  asset:
+    technicalSheet:
+      units:
+        "°F":
   general:
     back: Atrás
     cancel:
@@ -7,13 +11,14 @@ es:
     destroy:
     edit:
     new:
-  hello: Hola mundo, este es un archivo de prueba para PhraseApp.
+  headline:
+  hello: Hola mundo, este es un archivo de prueba para PhraseApp y lo he actualizado.
   layouts:
     application:
       about:
       account:
       app_store:
-      imprint:
+      imprint: Imprimir ahora
       logout:
       my_mails:
       press:
@@ -21,3 +26,5 @@ es:
       profile:
       sign_in:
       sign_up:
+  my_test_key:
+  new_key:
