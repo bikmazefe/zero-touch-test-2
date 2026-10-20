@@ -1,0 +1,30 @@
+---
+fr:
+  asset:
+    technicalSheet:
+      units:
+        "°F":
+  general:
+    back: Dos
+    cancel: Annuler
+    confirm: Es-tu sûr?
+    destroy: Supprimer
+    edit: Modifier
+    new: Nouveau
+  headline: Ceci est un titre
+  hello: Bonjour tout le monde, ceci est un fichier de test pour PhraseApp.
+  layouts:
+    application:
+      about: À propos
+      account: Compte
+      app_store: App Store
+      imprint: Imprimez demain
+      logout: Déconnectez-vous maintenant
+      my_mails: Afficher mes courriels
+      press: Presse
+      preview: Aperçu
+      profile: Profil
+      sign_in: Se connecter
+      sign_up: Registre
+  my_test_key: Ceci est un test
+  new_key: Il s'agit d'une nouvelle clé
