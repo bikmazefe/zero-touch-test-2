@@ -1,0 +1,30 @@
+---
+en-us-2:
+  asset:
+    technicalSheet:
+      units:
+        "°F":
+  general:
+    back:
+    cancel:
+    confirm:
+    destroy:
+    edit:
+    new:
+  headline:
+  hello:
+  layouts:
+    application:
+      about:
+      account:
+      app_store:
+      imprint:
+      logout:
+      my_mails:
+      press:
+      preview:
+      profile:
+      sign_in:
+      sign_up:
+  my_test_key:
+  new_key:

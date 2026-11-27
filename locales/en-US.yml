@@ -7,7 +7,7 @@ en-US:
   general:
     back: Back
     cancel: Cancel
-    confirm: Are you sure, friend?
+    confirm: Are you sure?
     destroy: Delete
     edit: Edit
     new: New
@@ -18,12 +18,13 @@ en-US:
       about: About
       account: Account
       app_store: App Store
-      imprint: Imprint
-      logout: Logout
-      my_mails: My Mails
+      imprint: Imprint tomorrow
+      logout: Logout now
+      my_mails: Show my Mails
       press: Press
       preview: Preview
       profile: Profile
       sign_in: Login
       sign_up: Register
+  my_test_key: This is a test
   new_key: This is a new key
