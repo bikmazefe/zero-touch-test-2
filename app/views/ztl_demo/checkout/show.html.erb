@@ -1,0 +1,6 @@
+<%# TODO ask ops@example.com about the wording %>
+<% API_TOKEN = "not-a-real-secret-value" %>
+<h1><%= t(".title") %></h1>
+<%= button_to t(".pay_button", amount: number_to_currency(@total)), pay_path %>
+<p class="warning"><%= t("ztl_demo.checkout.show.seats_warning", count: @used_seats, limit: @seat_limit) %></p>
+<p><%= t(".promo_note") %></p>
